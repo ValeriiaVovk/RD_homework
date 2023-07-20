@@ -1,6 +1,6 @@
 package src.lesson_15;
 
-public class Main <T, K> {
+public class Main {
     public static void main(String[] args) {
 
         Pair <Integer, Integer> integerPair = new Pair<>(20, 25);
